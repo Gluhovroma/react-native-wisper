@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "rn-web3",
+    "version": "0.0.1",
+    "android": {
+      "package": "com.ono.rnweb3",
+      "versionCode": 1
+  
+    }
+  }
+}
